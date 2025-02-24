@@ -1,0 +1,37 @@
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\appsettings.Development.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\appsettings.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.staticwebassets.endpoints.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.exe
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.deps.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.runtimeconfig.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.dll
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.pdb
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.csproj.AssemblyReference.cache
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfoInputs.cache
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfo.cs
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.MvcApplicationPartsAssemblyInfo.cs
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.MvcApplicationPartsAssemblyInfo.cache
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.sourcelink.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\scopedcss\bundle\Assignment 2.styles.css
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.Assignment 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.Assignment 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Assignment 2.props
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Assignment 2.props
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Assignment 2.props
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignme.B8B9BD87.Up2Date
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.dll
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\refint\Assignment 2.dll
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.pdb
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.genruntimeconfig.cache
+C:\dhara\HTTP5125-backend-web-development\Assignment 2\Assignment 2\obj\Debug\net8.0\ref\Assignment 2.dll
